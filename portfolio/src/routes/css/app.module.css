@@ -1,0 +1,8 @@
+.background {
+    width: 100%; /* Adjust width as needed */
+    height: 100px; /* Adjust height as needed */
+    background-image: url('../images/_DSC9907.jpg');
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+  }
